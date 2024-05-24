@@ -1,0 +1,1 @@
+const getAllproducts = "SELECT * FROM products";
